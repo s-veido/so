@@ -24,7 +24,7 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/
 #EXTINF:-1 tvg-id=" 12" tvg-name=" CCTV11" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
 #EXTINF:-1 tvg-id=" 13" tvg-name=" CCTV12" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 14" tvg-name=" CCTV13" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 15" tvg-name=" CCTV14" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿
@@ -56,16 +56,16 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mn
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://ivi.bupt.edu.cn/hls/dnhd.m3u8
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://ivi.bupt.edu.cn/hls/schd.m3u8
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://ivi.bupt.edu.cn/hls/hebhd.m3u8
