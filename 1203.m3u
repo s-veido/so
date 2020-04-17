@@ -1,6 +1,6 @@
 ＃EXTM3U
 #EXTINF:-1 tvg-id=" 1" tvg-name=" CCTV1" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7780104586873900361&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB809F88E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 2" tvg-name=" CCTV2" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-id=" 3" tvg-name=" CCTV3" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
