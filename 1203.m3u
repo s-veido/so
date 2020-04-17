@@ -24,7 +24,7 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/
 #EXTINF:-1 tvg-id=" 12" tvg-name=" CCTV11" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
 #EXTINF:-1 tvg-id=" 13" tvg-name=" CCTV12" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000171.m3u8
 #EXTINF:-1 tvg-id=" 14" tvg-name=" CCTV13" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 15" tvg-name=" CCTV14" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿
