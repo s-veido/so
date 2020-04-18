@@ -146,6 +146,8 @@ https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752
 https://aldirect.rtmp.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="黄渤" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="影视",黄渤
 https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 142" tvg-name="李连杰" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="影视",李连杰
+https://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-id=" 142" tvg-name="春晚小品" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="娱乐",,春晚小品
 https://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_1200.m3u8
