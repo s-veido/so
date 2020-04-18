@@ -103,6 +103,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="澳亚卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4 ％BA％9A％E5％8D％AB％E8％A7％86.png" group-title="卫视",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-id=" 262" tvg-name="Channel[V]" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="卫视",Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id=" 142" tvg-name="新视觉" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="卫视",新视觉
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="劲爆体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="卫视",劲爆体育
