@@ -115,6 +115,8 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mn
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="纪实人文" tvg-logo=" http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id=" 142" tvg-name="五星体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="卫视",五星体育
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id=" 142" tvg-name="亮剑" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="影视",亮剑
 http://aldirect.rtmp.huya.com/backsrc/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
