@@ -100,7 +100,7 @@ http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯台
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="香港卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="卫视",凤凰卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-id=" 142" tvg-name="澳亚卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" group-title="卫视",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 tvg-id=" 262" tvg-name="Channel[V]" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="卫视",Channel[V]
