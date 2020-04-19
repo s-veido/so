@@ -159,7 +159,7 @@ http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 #EXTINF:-1 tvg-id=" 其他" tvg-name=",影视"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 
-#EXTINF:-1 tvg-id=" 其他" tvg-name="春晚小品" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="娱乐",,春晚小品
+#EXTINF:-1 tvg-id=" 其他" tvg-name="春晚小品" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",,春晚小品
 https://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="大鹏" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="娱乐",,大鹏
+#EXTINF:-1 tvg-id=" 其他" tvg-name="大鹏" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",,大鹏
 https://aldirect.rtmp.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
