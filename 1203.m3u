@@ -182,6 +182,10 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",上海陆家嘴
 http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",敦煌月牙泉
+http://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",云台山百家岩
+http://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",乐山大佛(回放)
 http://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",哈尼梯田普高老寨
