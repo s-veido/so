@@ -105,8 +105,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-id=" 476" tvg-name="澳亚卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/%E6%BE%B3%E4%BA%9A%E5%8D%AB%E8%A7%86.png" group-title="卫视",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="Channel[V]" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="卫视",Channel[V]
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id=" 1963" tvg-name="新视觉" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="卫视",新视觉
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 1964" tvg-name="劲爆体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="卫视",劲爆体育
@@ -171,3 +169,5 @@ http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",大鹏
 https://aldirect.rtmp.huya.com/huyalive/29106097-2689285720-11550394216999813120-2789274540-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
