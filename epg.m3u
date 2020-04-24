@@ -117,7 +117,7 @@ http://47.240.60.73/migu.php?id=623338112
 http://47.240.60.73/migu.php?id=639528181
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4b7.png" group-title="明星影院",吴京作品集
 http://47.240.60.73/migu.php?id=625681368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=41574179,63572471&fm=15&gp=0.jpg" group-title="明星影院",63572471&fm=15&gp=0.jpg" 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=41574179,63572471&fm=15&gp=0.jpg" group-title="明星影院",63572471&fm=15&gp=0.jpg"
 http://47.240.60.73/migu.php?id=659315456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4b4.png" group-title="明星影院",刘德华作品集
 http://47.240.60.73/migu.php?id=659315648
@@ -225,3 +225,5 @@ http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",EBC东森洋片(解码HW+)
 http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳及国外",J2
+http://192.168.2.1:1111/252.ts
