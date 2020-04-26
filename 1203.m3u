@@ -144,6 +144,37 @@ http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",NEW-军旅剧场
 http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",I-爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",风云
 http://aldirect.rtmp.huya.com/backsrc/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",士兵突击
