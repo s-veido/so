@@ -182,7 +182,7 @@ https://aldirect.rtmp.huya.com/huyalive/29106097-2689285720-11550394216999813120
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",Channel[V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",春晚-2020
-https://cache.m.iqiyi.com/mus/249554701/5632b2b1ba9b7a3fb58c4ef4faedd4b1/afbe8fd3d73448c9//20200126/24/0e/9cc7028338b9f6a3482f4d69905c5449.m3u8?vt=0&qd_uri=dash&ff=ts&bossStatus=0&_lnt=0&ve=cd457ffa6b18a0216cc48b177c57aec3&code=2&qd_originate=h5&tls=true&src=02020031010000000000&tm=1587904765000&sgti=15_cd457ffa6b18a0216cc48b177c57aec3_1587904765000&qd_vip=0&preIdAll=&tvid=11131888500&k_uid=cd457ffa6b18a0216cc48b177c57aec3&qd_time=1587904767546&vf=ebfa6416a21c9dd48723ba045e9b2d5f
+https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
