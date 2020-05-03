@@ -110,10 +110,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",五星体育
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",超级体育
-http://112.50.243.8/PLTV/88888888/224/3221226646/1.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",超级赛车
-http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
