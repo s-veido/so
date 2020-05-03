@@ -105,11 +105,12 @@ http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 1988" tvg-name="纪实人文" tvg-logo=" http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
-#EXTINF:-1 tvg-id=" 1963" tvg-name="新视觉" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="卫视",新视觉
+
+#EXTINF:-1 tvg-id=" 其他" tvg-name="新视觉" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="体育",新视觉
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" 1964" tvg-name="劲爆体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="卫视",劲爆体育
+#EXTINF:-1 tvg-id=" 其他" tvg-name="劲爆体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育",劲爆体育
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" 1987" tvg-name="五星体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="卫视",五星体育
+#EXTINF:-1 tvg-id=" 其他" tvg-name="五星体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="影视",歐美影院
@@ -196,6 +197,3 @@ http://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",峨眉山云海日出
 http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-
-#EXTINF:-1 tvg-id=" 其他" tvg-name="测试" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="测试",测试
-http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
