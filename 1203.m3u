@@ -18,7 +18,7 @@ http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id=" 9" tvg-name=" CCTV8" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 10" tvg-name=" CCTV9" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 11" tvg-name=" CCTV10" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 12" tvg-name=" CCTV11" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
