@@ -10,7 +10,7 @@ http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-id=" 5" tvg-name=" CCTV5" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 6" tvg-name=" CCTV5 +" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5 +
-http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?
+http://39.135.34.150:8080/000000001000/1000000001000020505/2.m3u8?
 #EXTINF:-1 tvg-id=" 7" tvg-name=" CCTV6" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 8" tvg-name=" CCTV7" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
