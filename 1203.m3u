@@ -156,6 +156,8 @@ http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-
 http://aldirect.rtmp.huya.com/backsrc/94525224-2579683622-11079656790516826112-2789274566-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="电视",雍正王朝
 http://aldirect.rtmp.huya.com/backsrc/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="电视",康熙王朝
+http://47.240.60.73/aqy.php?id=3807158
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="电视",三国演义
 http://aldirect.rtmp.huya.com/backsrc/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="电视",铁齿铜牙纪晓岚
