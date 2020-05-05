@@ -135,6 +135,8 @@ https://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088
 http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",吴 京
 http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",古天乐
+http://47.240.60.73/migu.php?id=627198610
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",李连杰
 http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",周润发
