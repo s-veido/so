@@ -146,14 +146,19 @@ http://bddb.228888888.xyz:8081/live/ws109.m3u8
 http://bddb.228888888.xyz:8081/live/ws138.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",EYETV戏剧
 http://bddb.228888888.xyz:8081/live/ws139.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黑莓电影
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",国家地理悠人
+http://bddb.228888888.xyz:8081/live/ws143.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",国家地理野生
+http://bddb.228888888.xyz:8081/live/ws145.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",新视觉
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",五星体育
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",春晚-2020
 https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",新视觉
-http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",五星体育
-http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
