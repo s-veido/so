@@ -106,15 +106,14 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf
 #EXTINF:-1 tvg-id=" 1988" tvg-name="纪实人文" tvg-logo=" http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",新视觉
-http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",五星体育
-http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",春晚-2020
 https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",新视觉
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="体育",五星体育
+http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
