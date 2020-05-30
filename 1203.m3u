@@ -129,14 +129,14 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_chenglong_1080p_
 https://aldirect.rtmp.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",天映频道
 http://bddb.228888888.xyz:8081/live/ws109.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",吴 京
-http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",卫视电影
 http://bddb.228888888.xyz:8081/live/ws101.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",FOX电影
+http://bddb.228888888.xyz:8081/live/ws104.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",吴 京
+http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",李连杰
 http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",周润发
-http://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",徐 峥
 http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黄 渤
