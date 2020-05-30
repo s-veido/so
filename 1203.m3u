@@ -118,6 +118,34 @@ http://ddbb.228888888.xyz:8081/live/tw104.m3u8
 http://ddbb.228888888.xyz:8081/live/tw105.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",东森新闻
 http://ddbb.228888888.xyz:8081/live/tw106.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",中视新闻
+http://ddbb.228888888.xyz:8081/live/tw107.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",非凡新闻
+http://ddbb.228888888.xyz:8081/live/tw110.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",环宇新闻
+http://ddbb.228888888.xyz:8081/live/tw114.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",壹新闻
+http://ddbb.228888888.xyz:8081/live/tw115.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",年代新闻
+http://ddbb.228888888.xyz:8081/live/tw116.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",TVBS
+http://ddbb.228888888.xyz:8081/live/tw108.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",卫视电影台
+http://bddb.228888888.xyz:8081/live/ws101.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",FOX-HD
+http://bddb.228888888.xyz:8081/live/ws104.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",FoxActionMovies
+http://bddb.228888888.xyz:8081/live/ws105.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",FoxFamily
+http://bddb.228888888.xyz:8081/live/ws106.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",FoxCrime
+http://bddb.228888888.xyz:8081/live/ws107.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",天映频道
+http://bddb.228888888.xyz:8081/live/ws109.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",緯來體育
+http://bddb.228888888.xyz:8081/live/ws138.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="中视",EYETV戏剧
+http://bddb.228888888.xyz:8081/live/ws139.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="娱乐",春晚-2020
