@@ -106,9 +106,9 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf
 #EXTINF:-1 tvg-id=" 1988" tvg-name="纪实人文" tvg-logo=" http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" ,中天新闻
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="电影",,中天新闻
 http://ddbb.228888888.xyz:8081/live/tw101.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" ,台视新闻
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="电影",,台视新闻
 http://ddbb.228888888.xyz:8081/live/tw102.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
