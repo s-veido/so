@@ -153,12 +153,12 @@ http://aldirect.rtmp.huya.com/backsrc/28466698-2689663056-11552014862779416576-3
 http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",人民的民义
 http://aldirect.rtmp.huya.com/backsrc/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",古惑仔
-http://aldirect.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",成龙
-http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",吴京
-http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",康熙王朝
+https://tx.rtmp.huya.com/backsrc/1449584526-1449584526-6225918131957661696-3049003118-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",奋斗
+https://tx.rtmp.huya.com/backsrc/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",相声小品
+https://tx.rtmp.huya.com/backsrc/1449584077-1449584077-6225916203517345792-2847687612-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",李连杰
 http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",周润发
