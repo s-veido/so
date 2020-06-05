@@ -145,10 +145,10 @@ http://mgsp.live.miguvideo.com:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?msis
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",新片放映
 http://mgsp.live.miguvideo.com:8088/wd-virtuallive5100030975-150/index.m3u8?msisdn=202006052125286eac6fb34824469d99d0cfe4bbb2b307&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20200605212528&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=183.131.179.9&SecurityKey=20200605212528&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-
 0.0.3&userid=&jmhm=&videocodec=h264&encrypt=91e11c4eb9cdea5dc23117c83fb1f7df
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",DOXTV
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",DOX高清
 http://2200-yd.otvstream.otvcloud.com/otv/skcc/live/channel22023/index.m3u8?k=c9a8fed0eba0bf6416986c6faf5ae78c&t=5EDA49E8&UID=841327EA&zone_name=gslb.otvstream.otvcloud.com
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",奔跑兄弟
-http://tx.hls.huya.com/src/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.flv
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",DOX英伦
+http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTgtNSZubl9haz0wMWJhZDExZDg0NTk1ODczNDBmYjhjMTRhZGRjOWJjYjM2Jm50dGw9MSZucGlwcz0xMC4yMS4xNi40Njo1MTAwJm5jbXNpZD0xMTAxMjYmbmdzPTVlZGE0YTk5MDAwOGQ3ODYxMDg3OTA2M2FjMzY2YjlkJm5uZD1nemdkLmludGVybmV0Jm5zZD1nemdkLmludGVybmV0Jm5mdD10czJtM3U4Jm5uX3VzZXJfaWQ9MDEwMTAxMTYwOTEyMDEwMDAxMzYmbmR0PXN0YiZuZHY9Mi4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDE5OTRhZGE1ZTA2MDc1MWRlOGQzY2NmMjkwZjM5MmU5YjlhMWI4MzIwMzJlMg,,/232-10-8-5.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",相声小品
 http://tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.flv
 https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
