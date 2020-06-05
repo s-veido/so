@@ -145,6 +145,10 @@ http://tx.hls.huya.com/src/28466698-2689654156-11551976637570482176-2847699186-1
 http://tx.hls.huya.com/src/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",搞笑喜剧
 http://tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",极限挑战
+http://aldirect.hls.huya.com/huyalive/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",奔跑兄弟
+http://tx.hls.huya.com/src/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",相声小品
 http://tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.flv
 https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
