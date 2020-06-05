@@ -129,6 +129,8 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1
 http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",亚洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",好莱坞
+http://112.17.40.19/wh7f454c46tw2031989365_-1941846164/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1591364724&hms_devid=1459&online=1591364724&vqe=1
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",成龙
 http://mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5102010211/150/index.m3u8?msisdn=20200605212200d7f7ec5823de44e685c0630e7d501265&mdspid=&spid=800033&netType=0&sid=5500462658&pid=2028597139&timestamp=20200605212200&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528181&ParentNodeID=-99&assertID=5500462658&client_ip=183.131.179.9&SecurityKey=20200605212200&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=6330487874aa4181038d706dab9d5f94
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",吴京
