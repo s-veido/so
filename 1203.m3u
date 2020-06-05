@@ -153,9 +153,6 @@ http://mgsp.live.miguvideo.com:8088/wd-virtuallive5100030975-150/index.m3u8?msis
 http://2200-yd.otvstream.otvcloud.com/otv/skcc/live/channel22023/index.m3u8?k=c9a8fed0eba0bf6416986c6faf5ae78c&t=5EDA49E8&UID=841327EA&zone_name=gslb.otvstream.otvcloud.com
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",DOX英伦
 http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTgtNSZubl9haz0wMWJhZDExZDg0NTk1ODczNDBmYjhjMTRhZGRjOWJjYjM2Jm50dGw9MSZucGlwcz0xMC4yMS4xNi40Njo1MTAwJm5jbXNpZD0xMTAxMjYmbmdzPTVlZGE0YTk5MDAwOGQ3ODYxMDg3OTA2M2FjMzY2YjlkJm5uZD1nemdkLmludGVybmV0Jm5zZD1nemdkLmludGVybmV0Jm5mdD10czJtM3U4Jm5uX3VzZXJfaWQ9MDEwMTAxMTYwOTEyMDEwMDAxMzYmbmR0PXN0YiZuZHY9Mi4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDE5OTRhZGE1ZTA2MDc1MWRlOGQzY2NmMjkwZjM5MmU5YjlhMWI4MzIwMzJlMg,,/232-10-8-5.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",相声小品
-http://tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.flv
-https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
