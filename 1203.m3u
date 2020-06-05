@@ -130,16 +130,17 @@ http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",亚洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",周星驰
-http://tx.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.flv?wsSecret=18577d54520b3adb6900787a7ff6018f&wsTime=5eda296a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+http://tx.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",李连杰
-http://tx.hls.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.flv?wsSecret=9cf46377c7e5507d9ba55e90c3963a73&wsTime=5eda2fed&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+http://tx.hls.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",贺岁大片
-http://tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv?wsSecret=f561971d962667471a8c9e473e1bfd34&wsTime=5eda3217&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+http://tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",三国演义
-http://tx.hls.huya.com/src/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.flv?wsSecret=102d7a30394d3942349e40f0cdaa3324&wsTime=5eda3365&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+http://tx.hls.huya.com/src/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.flv
+#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",搞笑喜剧
+http://tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv
 #EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",相声小品
-http://tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.flv?wsSecret=48326db92f62964d5b23c8f4e5b3948b&wsTime=5eda3063&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
-#EXTINF:-1 tvg-id=" 其他" tvg-name="轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="轮播",春晚-2020
+http://tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.flv
 https://m3u8.winzoo.cn/data/iqiyi/630d437d33c1cc6691cddcb0f30f6876.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
