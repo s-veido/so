@@ -113,6 +113,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 1988" tvg-name="五星体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/wuxingtiyu.jpg" group-title="卫视",五星体育
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id=" 1988" tvg-name="极速汽车" tvg-logo="http://www.tvyan.com/uploads/dianshi/channel-max.jpg" group-title="卫视",极速汽车
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
@@ -124,6 +126,8 @@ EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000
 http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
