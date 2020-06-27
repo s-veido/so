@@ -126,6 +126,10 @@ http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/in
 http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩动作
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩海外
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
