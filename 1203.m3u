@@ -114,37 +114,37 @@ http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf
 #EXTINF:-1 tvg-id=" 1988" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="卫视",五星体育
 http://58.216.102.246/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",黑莓电影
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",大众影视
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",大众影视
 http://39.134.52.207/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",家庭剧场
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",家庭剧场
 http://39.134.52.197/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",家庭影院
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",家庭影院
 http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",超级电视剧
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",超级电视剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",超级电影
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",超级电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩动作
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",哔哩动作
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩海外
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",哔哩海外
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩国产
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",哔哩国产
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩国外
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",哔哩国外
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",哔哩恐怖
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",哔哩恐怖
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",黑帮电影
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",黑帮电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",电影大片
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",电影大片
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",家庭剧场
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",家庭剧场
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",动作电影
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",动作电影
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="中视",五星影院
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
