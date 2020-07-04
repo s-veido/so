@@ -158,6 +158,10 @@ http://aldirect.hls.huya.com/src/29106097-2689406282-11550912026846953472-278927
 http://aldirect.hls.huya.com/src/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_8000.m3u8?wsTime
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",虎牙-贺岁大片
 http://aldirect.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8?wsTime
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",虎牙-国产大片
+http://aldirect.hls.huya.com/src/1449574089-1449574089-6225873305383993344-2847687582-10057-A-0-1.m3u8?wsTime
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",虎牙-三国演义
+http://aldirect.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8?wsTime
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
