@@ -152,6 +152,8 @@ http://proxy.hls.yy.com/livesystem/15013_xv_1354296859_1354296859_0_0_0-15013_xa
 http://proxy.hls.yy.com/livesystem/15013_xv_1352581770_1352581770_0_0_0-15013_xa_1352581770_1352581770_0_10_0.m3u8?org=yyweb&uuid=5405076ca49a4b50b27c57bf71449811&t=1593835929&tk=90f6e0233974d22180d38f1c78e0160a
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",YY-战争
 http://proxy.hls.yy.com/livesystem/15013_xv_1353245560_1353245560_0_0_0-15013_xa_1353245560_1353245560_0_10_0.m3u8?org=yyweb&uuid=bd8c6b634e1e43ab8024e42ea379d7a0&t=1593836045&tk=e0d5d265435ef7ca19c3977b4cac2305
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",虎牙
+http://aldirect.hls.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.m3u8?wsTime
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
