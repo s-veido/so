@@ -172,6 +172,8 @@ http://aldirect.hls.huya.com/src/30765679-2554414705-10971127618396487680-304899
 http://aldirect.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8?wsTime
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",虎牙-孙红雷
 http://aldirect.hls.huya.com/src/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8?wsTime
+#EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",虎牙-梁朝伟
+http://aldirect.hls.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.m3u8?wsTime
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
