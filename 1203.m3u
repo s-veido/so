@@ -146,8 +146,12 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",五星影院
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",大片轮播
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",虎牙-大片轮播
 http://aldirect.hls.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1.m3u8?wsTime
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",虎牙-大片轮播
+http://aldirect.hls.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_8000.m3u8?wsTime
+#EXTINF:-1 tvg-id=" 其他" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="中视",虎牙-成龙
+http://aldirect.hls.huya.com/src/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_8000.m3u8?wsTime
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
