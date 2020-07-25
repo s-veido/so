@@ -105,6 +105,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id=" 143" tvg-name="香港卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="卫视",香港卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1 tvg-id=" 1976" tvg-name="全纪实" tvg-logo=" http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="卫视",全纪实
+http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id=" 1988" tvg-name="纪实人文" tvg-logo=" http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",纪实人文
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id=" 1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="卫视",新视觉
