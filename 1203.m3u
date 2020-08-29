@@ -10,31 +10,31 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id=" 5" tvg-name=" CCTV5" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id=" 6" tvg-name=" CCTV5 +" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5＋
-http://112.50.243.8/PLTV/88888888/224/3221225939/4.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id=" 7" tvg-name=" CCTV6" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id=" 8" tvg-name=" CCTV7" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id=" 9" tvg-name=" CCTV8" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id=" 10" tvg-name=" CCTV9" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id=" 11" tvg-name=" CCTV10" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id=" 12" tvg-name=" CCTV11" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id=" 13" tvg-name=" CCTV12" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id=" 14" tvg-name=" CCTV13" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id=" 15" tvg-name=" CCTV14" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14少儿
-http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
-#EXTINF:-1 tvg-id=" 16" tvg-name=" CCTV15" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15音乐
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id=" 15" tvg-name=" CCTV14" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-id=" 16" tvg-name=" CCTV15" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id=" 17" tvg-name=" CCTV17" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
-http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
