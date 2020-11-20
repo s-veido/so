@@ -117,7 +117,7 @@ http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",黑莓电影
-http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",欧美电影
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",超级电影
