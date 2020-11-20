@@ -123,7 +123,7 @@ https://v2.yongjiujiexi.com/20180303/iGNUwVJU/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",2019春晚
 https://youku.com-youku.net/20190205/27321_ff581a39/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="影视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="影视",2020春晚
-https://youku.cdn3-okzy.com/20200125/6223_704321e2/index.m3u8
+http://cdn-yong.bejingyongjiu.com/20200124/1882_03b97092/index.m3u8
 
 #EXTINF:-1 tvg-id=" 其他" tvg-name="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="卫视",劲爆体育
 http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
