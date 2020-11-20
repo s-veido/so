@@ -196,3 +196,7 @@ http://gcalic.v.myalicdn.com/gc/tyhjtynl_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8
 #EXTINF:-1 tvg-id=" 其他" tvg-name="风景" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="风景",峨眉山云海日出
 http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+
+备份：
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
