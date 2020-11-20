@@ -200,3 +200,7 @@ http://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
 备份：
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 tvg-id=" 141" tvg-name="凤凰香港" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="卫视",凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id=" 143" tvg-name="香港卫视" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="卫视",香港卫视
+http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
