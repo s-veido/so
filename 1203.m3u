@@ -14,7 +14,7 @@ http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u
 #EXTINF:-1 tvg-id=" 7" tvg-name=" CCTV6" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 tvg-id=" 8" tvg-name=" CCTV7" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
-http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+http://101.71.255.229:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 9" tvg-name=" CCTV8" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://101.71.255.229:6610/zjhs/2/10132/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 10" tvg-name=" CCTV9" tvg-logo=" http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
@@ -96,7 +96,7 @@ http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225837/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id=" 142" tvg-name="凤凰资讯" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",凤凰资讯
 http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id=" 141" tvg-name="凤凰中文" tvg-logo=" http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",凤凰中文
